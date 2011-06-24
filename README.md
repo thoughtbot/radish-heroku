@@ -2,7 +2,7 @@
 
 Run Radish on Heroku (with Redis To Go!)
 
-## howto
+## How to
 
 First, you'll need an account with Radish. [Sign up!](http://radishapp.com)
 
@@ -14,4 +14,8 @@ Then, fork this repository, and run:
 
     git push heroku master
 
-Watch the stats roll into Radish!
+Make sure to replace the "YOUR" stuff (your app name, api key, redis url) with your real information. Once that works, watch the stats roll into Radish!
+
+## Need help?
+
+Open up a [new support request](http://help.radishapp.com) if you have any trouble getting this working.
