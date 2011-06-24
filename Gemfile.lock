@@ -2,7 +2,7 @@ GEM
   remote: http://rubygems.org/
   specs:
     daemons (1.1.4)
-    daikon (0.8.14)
+    daikon (0.8.15)
       daemons (~> 1.0)
       excon (~> 0.5)
       json_pure (~> 1.4)
@@ -15,4 +15,4 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  daikon (~> 0.8.14)
+  daikon (~> 0.8.15)
