@@ -1,0 +1,18 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    daemons (1.1.4)
+    daikon (0.8.14)
+      daemons (~> 1.0)
+      excon (~> 0.5)
+      json_pure (~> 1.4)
+      redis (~> 2.1)
+    excon (0.6.3)
+    json_pure (1.5.3)
+    redis (2.2.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  daikon (~> 0.8.14)
