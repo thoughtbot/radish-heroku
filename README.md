@@ -2,8 +2,6 @@
 
 This works, but the dyno spins down after a few hours. We're working on a more permanent solution.
 
-If you want 
-
 # radish-heroku
 
 Run Radish on Heroku (with Redis To Go!)
